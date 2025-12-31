@@ -131,7 +131,7 @@ src/
 
 ## Auteur
 
-Nohyla Ougas
+Fadoua Ougas
 
 ---
 
